@@ -161,6 +161,7 @@ _EXPERIMENTAL_TRIGGER_PLATFORMS = {
     "schedule",
     "siren",
     "switch",
+    "temperature",
     "text",
     "update",
     "vacuum",
